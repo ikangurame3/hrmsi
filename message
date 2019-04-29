@@ -2,10 +2,6 @@
 	"success": true,
 	"message": "Aplikasi sudah tidak dalam pengembangan, silahkan menghubungi IT yang bersangkutan",
 	"license": {
-		"startdate": "2018-01-02 10:10:10",
-		"warningdate": "2018-01-20 10:10:10",
-		"enddate": "2018-01-12 12:10:10",
-		"active": true,
-		"777b7286842e30353433322e313634": "786e7d78778230353433322e313634"
+		ext:true,
 	}
 }
