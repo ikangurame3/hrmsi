@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"message": "Aplikasi sudah tidak dalam pengembangan, silahkan menghubungi IT yang bersangkutan",
-	"lockstatus": "YES",
+	"lockstatus": "NO",
 	"lockdate": "2019-12-01 01:01:01",
 	"license": {
 		"extx":true
