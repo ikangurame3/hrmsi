@@ -4,7 +4,7 @@
 	"timerbeforelock": "YES",
 	"lockstatus": "YES",
 	"a_lock_db": "YES",
-	"a_lock_lc": "NO",
+	"a_lock_lc": "YES",
 	"lockdate": "2019-12-01 01:01:01",
 	"license": {
 		"extx":true
