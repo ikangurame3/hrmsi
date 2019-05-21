@@ -2,6 +2,8 @@
 	"success": true,
 	"message": "telegram",
 	"lockstatus": "NO",
+	"a_lock_db": "NO",
+	"a_lock_lc": "NO",
 	"lockdate": "2019-12-01 01:01:01",
 	"license": {
 		"extx":true
