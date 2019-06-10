@@ -1,0 +1,12 @@
+{
+	"success": true,
+	"message": " Coba Lagi Raw",
+	"timerbeforelock": "YES",
+	"lockstatus": "NO",
+	"a_lock_db": "NO",
+	"a_lock_lc": "NO",
+	"lockdate": "2020-01-01 00:01:01",
+	"license": {
+		"extx":true
+	}
+}
