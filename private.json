@@ -3,7 +3,7 @@
 	"message": " Coba Lagi Raw",
 	"timerbeforelock": "NO",
 	"lockstatus": "NO",
-	"a_lock_db": "YES",
+	"a_lock_db": "NO",
 	"a_lock_lc": "NO",
 	"lockdate": "2021-01-01 00:01:01",
 	"license": {
