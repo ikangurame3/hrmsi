@@ -1,7 +1,7 @@
 {
 	"success": true,
 	"message": " Coba Lagi Raw",
-	"timerbeforelock": "YES",
+	"timerbeforelock": "NO",
 	"lockstatus": "NO",
 	"a_lock_db": "NO",
 	"a_lock_lc": "NO",
